@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJcloon
 - 👀 I’m interested in Gaming, Anime, Programming, Scripting, and just Learning new knowlegde
-- 🌱 I’m currently learning Python, Java, HTML5, CSS, and Javascript.  I look forward to learning C, C++, and C# in the near future
+- 🌱 I’m currently learning Python, Java, C#, Unity, HTML5, CSS, and Javascript.  I look forward to learning C and C++ in the near future
 - 💞️ I’m not looking to collaborate on anything at the current moment. 
 - 📫 How to reach me ...
 
